@@ -1,2 +1,7 @@
 # test_repo
-This is master branch with test file.
+This is main branch with test file.
+main branch
+main branch
+main branch
+main branch
+main branch
